@@ -1,1 +1,6 @@
-alert ("Привет, javascript!")
+alert ("Привет, javascript!";
+var admin;
+var name;
+name = "Василий";
+var admin = var name;
+alert (var admin)
